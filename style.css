@@ -35,6 +35,22 @@ article {
 #Why {
   border: 10px orange solid;
 }
+a:link {
+  text-decoration-color: aqua;
+  color: aqua;
+}
+header a:active {
+  color: lightblue;
+  text-decoration-color: lightblue;
+}
+footer a:active {
+  color: lightblue;
+  text-decoration-color: lightblue;
+}
+main a:link {
+  color: navy;
+}
+
 footer {
   font-size: 1.1rem;
   text-align: center;
