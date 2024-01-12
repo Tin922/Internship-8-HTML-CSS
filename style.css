@@ -1,0 +1,42 @@
+body {
+  font-size: 1.4rem;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+hr {
+  color: orange;
+}
+header {
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+nav {
+  text-align: center;
+  font-size: 1rem;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+article {
+  background-color: antiquewhite;
+}
+#What {
+  border: 10px magenta solid;
+}
+#How {
+  border: 10px aqua solid;
+}
+#Why {
+  border: 10px orange solid;
+}
+footer {
+  font-size: 1.1rem;
+  text-align: center;
+  color: white;
+}
